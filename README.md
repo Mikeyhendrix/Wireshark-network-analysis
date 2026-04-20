@@ -12,4 +12,12 @@ This project demonstrates capturing and analyzing network traffic using Wireshar
 - Wireshark
 
 ## Screenshots
-(Add your uploaded images here)
+
+### DNS Analysis
+![DNS](Screenshot 2026-04-19 194542.png)
+
+### TCP Traffic
+![TCP](Screenshot 2026-04-19 194635.png)
+
+### Packet Breakdown
+![Packet](Screenshot 2026-04-19 200658.png)
