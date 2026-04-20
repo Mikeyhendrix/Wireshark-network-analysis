@@ -14,7 +14,7 @@ This project demonstrates capturing and analyzing network traffic using Wireshar
 ## Screenshots
 
 ### DNS Analysis
-![DNS](Screenshot 2026-04-19 194542.png)
+![DNS](Screenshot%202026-04-19%20194542.png)
 
 ### TCP Traffic
 ![TCP](Screenshot 2026-04-19 194635.png)
